@@ -1,15 +1,4 @@
 Project Description
-
-Reasoning Agents for Enterprise Learning and Certification Readiness is a multi-agent AI system designed to help organizations manage internal certification and workforce upskilling programs more intelligently.
-
-The project uses specialized reasoning agents to guide learners through the full certification preparation journey. It starts by understanding a learner’s role, target certification, completed skills, practice scores, workload, and available focus time. Based on this context, the system recommends a personalized learning path, creates a realistic study schedule, adapts engagement reminders, evaluates exam readiness, and generates manager-level insights.
-
-The solution is built with synthetic data and demonstrates the architecture of an enterprise-ready AI agent system. It maps to Microsoft Foundry-style reasoning patterns and includes conceptual layers for Foundry IQ, Work IQ, and Fabric IQ. Foundry IQ is represented through grounded retrieval over approved learning content, Work IQ is represented through workload and focus-time signals, and Fabric IQ is represented through a semantic model of roles, certifications, skills, thresholds, and readiness gaps.
-
-Project Goals
-
-The main goal of this project is to demonstrate how reasoning agents can solve a complex enterprise learning problem through multi-step collaboration.
-
 The system aims to:
 
 Personalize certification learning paths based on role and skill gaps.
