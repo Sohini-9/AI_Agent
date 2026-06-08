@@ -1,0 +1,31 @@
+{
+  "certifications": [
+    {
+      "id": "AZ-204",
+      "name": "Azure Developer Associate",
+      "recommended_hours": 24,
+      "pass_threshold": 75,
+      "skills": ["API Development", "Azure Functions", "Storage", "Security Basics"]
+    },
+    {
+      "id": "AZ-400",
+      "name": "DevOps Engineer Expert",
+      "recommended_hours": 28,
+      "pass_threshold": 78,
+      "skills": ["CI/CD", "Monitoring", "GitHub Actions", "Release Strategy"]
+    },
+    {
+      "id": "DP-203",
+      "name": "Azure Data Engineer Associate",
+      "recommended_hours": 26,
+      "pass_threshold": 76,
+      "skills": ["Data Pipelines", "Data Lake", "Spark", "Monitoring"]
+    }
+  ],
+  "role_certification_map": {
+    "Cloud Engineer": "AZ-204",
+    "DevOps Engineer": "AZ-400",
+    "Data Engineer": "DP-203"
+  }
+}
+

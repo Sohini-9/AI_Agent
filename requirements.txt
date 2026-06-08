@@ -1,0 +1,3 @@
+# This local starter kit uses only Python standard library modules.
+# Add Microsoft Foundry / Azure AI dependencies when connecting to cloud agents.
+

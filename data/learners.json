@@ -1,0 +1,33 @@
+[
+  {
+    "learner_id": "L-1001",
+    "employee_id": "EMP-001",
+    "role": "Cloud Engineer",
+    "certification": "AZ-204",
+    "practice_score_avg": 67,
+    "hours_studied": 18,
+    "completed_modules": ["API Development", "Storage"],
+    "team": "TEAM-A"
+  },
+  {
+    "learner_id": "L-1002",
+    "employee_id": "EMP-002",
+    "role": "DevOps Engineer",
+    "certification": "AZ-400",
+    "practice_score_avg": 82,
+    "hours_studied": 24,
+    "completed_modules": ["CI/CD", "GitHub Actions", "Monitoring"],
+    "team": "TEAM-A"
+  },
+  {
+    "learner_id": "L-1003",
+    "employee_id": "EMP-003",
+    "role": "Data Engineer",
+    "certification": "DP-203",
+    "practice_score_avg": 74,
+    "hours_studied": 20,
+    "completed_modules": ["Data Pipelines", "Data Lake"],
+    "team": "TEAM-B"
+  }
+]
+
